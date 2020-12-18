@@ -16,4 +16,4 @@ Team Member   :
 Year : 2020
 
 how to install the app :
-Download the Rar file, extract it to wherever you want to save, open the folder and search for Hunting Season.exe, double Klick it and Enjoy :)
+Download the Rar file, extract it to wherever you want to save, open the folder and search for Hunting Season.exe, double click it and Enjoy :)
